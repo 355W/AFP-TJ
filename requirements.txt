@@ -1,5 +1,5 @@
 python==3.12.3
-streamlit==1.47.1
+streamlit>=1.47.1
 torch==2.7.1
 transforemers==4.54.0
 pandas==2.3.1

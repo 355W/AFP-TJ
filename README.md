@@ -1,2 +1,2 @@
 # AFP-TJ
-Antifreeze prediction
+Antifreeze protein prediction
